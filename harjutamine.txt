@@ -1,3 +1,4 @@
 GitHub on koostöö ja versioonijuhtimise koodimajutusplatvorm. GitHub võimaldab teil (ja teistel) projektidega koostööd teha.
 Seda kasutavad enamasti programmeerijad.
 Saan seda kasutada siis kui mul on vaja teha midagi seoses programmeerimisega jne.
+GitHubi teenuse töötasid välja Chris Wanstrath, P. J. Hyett, Tom Preston-Werner ja Scott Chacon Ruby on Rails ning see algas 2008. aasta veebruaris. Ettevõte GitHub, Inc., on tegutsenud alates 2007. aastast ja asub San Franciscos. 
