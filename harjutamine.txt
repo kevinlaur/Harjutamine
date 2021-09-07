@@ -1,0 +1,2 @@
+GitHub on koostöö ja versioonijuhtimise koodimajutusplatvorm. GitHub võimaldab teil (ja teistel) projektidega koostööd teha.
+Seda kasutavad enamasti programmeerijad.
